@@ -1,0 +1,12 @@
+{
+  "model": "deeplabv3plus",
+  "encoder": "resnet50",
+  "num_classes": 4,
+  "image_size": 256,
+  "num_epochs": 100,
+  "best_epoch": 91,
+  "best_mcc": 0.9531622506836706,
+  "best_miou": 0.9771695587646195,
+  "final_train_loss": 0.020977918444791945,
+  "final_val_loss": 0.02443791553378105
+}
